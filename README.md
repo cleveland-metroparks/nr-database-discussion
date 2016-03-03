@@ -6,24 +6,31 @@
 	
 
 ## NR Databases:
-* VIBI
-* Wetland
-	* Classification
-	* Unmapped observations
-	* ORAM
+* NRmonitoring
+	* VIBI
+	* Wetland
+		* Classification
+		* Unmapped observations
+		* ORAM
 
-* Features
-	* Rare and important features
-	* Vascular Plant Observations
-	* iNaturalist
-	* Site Survey
-	* Herp Locations
+	* Natural and cultural features
+		* meant to include rare and important features
+		* Taxonomic observations
+		* Natural heritage data
+		* iNaturalist
+		* Site Surveys
+			* first or one-time visits
+			* monitoring activities
+		* Camera traps dump
 
-* Aquatics
-	* HHEI
-	* QHEI
-	* HMFEI
-	* BEHI	
+	* Aquatics
+		* HHEI
+		* QHEI
+		* HMFEI
+		* BEHI	
+
+	* Gull and Goose Observations
+
 
 * Camera Traps
 	* 
@@ -33,7 +40,6 @@
 	* Management
 	* Processing
 
-* Gull and Goose Observations
 
 ## Other Databases
 * Playground Inspection
