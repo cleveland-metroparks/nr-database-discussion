@@ -34,7 +34,6 @@
 	* Management
 	* Processing
 
-* Ushihidi
 * Gull and Goose Observations
 
 ## Other Databases
@@ -43,9 +42,13 @@
 
 * GeoNode
 
+* Ushahidi
+
 ## How to access
 * QGIS
 * ArcGIS
 * pgAdmin
 * Web
+* R
+* Excel
 * Magnetized needle			
