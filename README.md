@@ -15,7 +15,6 @@
 * Features
 	* Rare and important features
 	* Vascular Plant Observations
-	* Vascular Plant Observations
 	* iNaturalist
 	* Site Survey
 	* Herp Locations
